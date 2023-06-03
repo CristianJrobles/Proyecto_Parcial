@@ -1,0 +1,2 @@
+01/Enero/2023;FIFA;0;0;UPC
+01/Julio/2023;Gamarra;7;3;FIFA
